@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @floof59
 - 👀 I’m interested in Cats, Netflix series and programming.
 - 🌱 I’m currently learning NextJS, TailwindCSS and Python.
-- 📫 How to reach me: floof@floof.ml
+- 📫 How to reach me: aol@floof.ml
